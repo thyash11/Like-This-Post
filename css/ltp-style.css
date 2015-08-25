@@ -207,3 +207,8 @@
 	}
 
 }
+
+.white_content > h2 {
+    padding: 10px 0 0;
+    text-align: center;
+}
